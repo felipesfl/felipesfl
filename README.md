@@ -1,14 +1,17 @@
 # Felipe de Souza
 
-##`Desenvolvedor e Analista QA`##
-
 Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA) focado em criar soluções eficientes, escaláveis e com alta confiabilidade. Tenho experiência no desenvolvimento de interfaces modernas e responsivas, construção de APIs e serviços backend, além de forte atuação em testes funcionais, automação e garantia de qualidade de software.
 
 ### Linguagens e Tecnologias
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
+<p align="left" style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</p>
+
+<hr>
+
+<p align="left" style="display: flex; gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img alt="React" title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Node.js" title="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Java" title="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
