@@ -5,51 +5,14 @@
 Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA) focado em criar soluções eficientes, escaláveis e com alta confiabilidade. Tenho experiência no desenvolvimento de interfaces modernas e responsivas, construção de APIs e serviços backend, além de forte atuação em testes funcionais, automação e garantia de qualidade de software.
 
 ### Linguagens e Tecnologias
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  widht="10px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  widht="10px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img align="left"
-  alt="JS"
-  title="JS"
-  widht="10px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascrioriginal.svg"/>
-
-<img 
-  align="left"
-  alt="React"
-  title="React"
-  widht="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img
-  align="left"
-  alt="Node"
-  title="Node"
-  widht="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-originalwordmark.svg" />
-
-<img align="left"
-  alt="Java"
-  title="Java"
-  widht="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />,
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <img alt="HTML" title="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="React" title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Node.js" title="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Java" title="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</p>
 
   <br>
   <br>
