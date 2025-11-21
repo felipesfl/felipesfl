@@ -5,14 +5,16 @@
 Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA) focado em criar soluções eficientes, escaláveis e com alta confiabilidade. Tenho experiência no desenvolvimento de interfaces modernas e responsivas, construção de APIs e serviços backend, além de forte atuação em testes funcionais, automação e garantia de qualidade de software.
 
 ### Linguagens e Tecnologias
-<img align="left"
+<img 
+  align="left"
   alt="HTML"
   title="HTML"
   widht="10px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<img align="left"
+<img 
+  align="left"
   alt="CSS"
   title="CSS"
   widht="10px"
@@ -26,14 +28,16 @@ Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA) f
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascrioriginal.svg"/>
 
-<img align="left"
+<img 
+  align="left"
   alt="React"
   title="React"
   widht="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<img align="left"
+<img
+  align="left"
   alt="Node"
   title="Node"
   widht="30px"
