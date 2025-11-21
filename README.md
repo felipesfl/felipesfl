@@ -8,21 +8,21 @@ Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA) f
 <img align="left"
   alt="HTML"
   title="HTML"
-  widht="30px"
+  widht="10px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img align="left"
   alt="CSS"
   title="CSS"
-  widht="30px"
+  widht="10px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img align="left"
   alt="JS"
   title="JS"
-  widht="30px"
+  widht="10px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascrioriginal.svg"/>
 
