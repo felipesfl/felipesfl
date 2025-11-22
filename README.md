@@ -7,10 +7,10 @@ Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA), 
 
 ## 🔹 Sobre mim
 
-◾ Apaixonado por tecnologia e aprendizado continuo
-◾ Comprometido com qualidade, organização e boas práticas
-◾ Busco evoluir profissionalmente e encara novos desafios
-◾ Interesse em criar soluções que impactam postivamente os usuários
+◾ Apaixonado por tecnologia e aprendizado continuo <br>
+◾ Comprometido com qualidade, organização e boas práticas<br>
+◾ Busco evoluir profissionalmente e encara novos desafios<br>
+◾ Interesse em criar soluções que impactam postivamente os usuários<br>
 
 
 
