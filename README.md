@@ -1,6 +1,5 @@
 
 <img alt="Nome" height="300"  src="images/Felipe de Souza.png">
->>>>>>> e985f3b (images)
 Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA) focado em criar soluções eficientes, escaláveis e com alta confiabilidade. Tenho experiência no desenvolvimento de interfaces modernas e responsivas, construção de APIs e serviços backend, além de forte atuação em testes funcionais, automação e garantia de qualidade de software.
 
 ## Linguagens e Tecnologias  
