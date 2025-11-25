@@ -1,5 +1,5 @@
 
-<img alt="Nome" height="300"  src="images/Felipe de Souza.svg">
+<img alt="Nome" height="400"  src="images/Felipe de Souza.svg">
 
 # Olá Dev, Welcome 
 
