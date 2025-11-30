@@ -24,9 +24,5 @@ Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA), 
   <img alt="Java" height="30" widht="40"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-## 🔹 Estatísticas do GitHub  
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesfl&theme=dark&layout=compact&locale=pt-br" />
-</p>
 
 
