@@ -1,9 +1,7 @@
 
-<img alt="Nome" height="700"  src="images/Felipe de Souza.svg">
-
 # Olá Dev, Welcome 
 
-Sou Felipe de Souza, tenho 20 anos, Desenvolvedor e Analista de Qualidade (QA), graduando em Ciência da Computação pela Universidade Federal do Cariri (UFCA) focado em criar soluções eficientes, escaláveis e com alta confiabilidade. 
+Sou Felipe de Souza, tenho 21 anos, Desenvolvedor Front End, graduando em Ciência da Computação pela Universidade Federal do Cariri (UFCA) focado em criar soluções eficientes, escaláveis e com alta confiabilidade. 
 
 ## 🔹 Sobre mim
 
